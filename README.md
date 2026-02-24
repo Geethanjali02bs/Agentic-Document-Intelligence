@@ -2,7 +2,7 @@
 
 This repository contains the **Agentic Document Intelligence** project, a Python-based system for processing, analyzing, and interacting with documents using agents and AI models.
 
-## 📦 Overview
+##  Overview
 
 - **Backend**: `backend.py` handles server-side logic and integrations.
 - **Frontend**: `frontend.py` provides a user interface (if applicable).
@@ -10,7 +10,7 @@ This repository contains the **Agentic Document Intelligence** project, a Python
 
 The project also uses a local `chroma_db` for data storage and a virtual environment for dependencies.
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -36,10 +36,10 @@ The project also uses a local `chroma_db` for data storage and a virtual environ
    ```
 
 
-## 🧩 Contribution
+##  Contribution
 
 Feel free to open issues or submit pull requests. Ensure any new dependencies are added to `requirements.txt`.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
